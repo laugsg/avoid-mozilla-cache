@@ -1,0 +1,1 @@
+# avoid-mozilla-cache
